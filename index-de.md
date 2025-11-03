@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Keep Android Open"
+lang: de
 permalink: /de/
 description: "Befürwortung von Android als kostenlose und offene Plattform für jeden, um Apps zu entwickeln."
 

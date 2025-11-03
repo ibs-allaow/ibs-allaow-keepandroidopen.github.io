@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Keep Android Open"
+lang: fr
 permalink: /fr/
 description: "Plaidoyer pour Android en tant que plateforme libre et ouverte permettant à tous de développer des applications."
 

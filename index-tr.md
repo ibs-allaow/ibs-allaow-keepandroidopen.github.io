@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Android Açık Kalsın"
+lang: tr
 permalink: /tr/
 description: "Android'in herkesin üzerinde uygulama geliştirebileceği özgür, açık bir platform olmasını savunuyoruz."
 
