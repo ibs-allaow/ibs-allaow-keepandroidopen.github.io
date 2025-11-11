@@ -83,7 +83,7 @@ As reclamações são especialmente impactantes quando são escritas por um cida
 
 #### Tailândia
 
-- Email: [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
+- Email: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - Entre em contato com o [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
 - _Nota: A Tailândia foi selecionada para ser um dos [4 países iniciais](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) onde o registro dos desenvolvedores será imposto_
 

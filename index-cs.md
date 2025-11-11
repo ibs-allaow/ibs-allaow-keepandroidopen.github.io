@@ -82,7 +82,7 @@ Stížnosti jsou zvláště efektivní, když pochází od občanů dané země 
 
 #### Thajsko
 
-- Email: [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
+- Email: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - Kontaktujte [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
 - _Poznámka: Thajsko je jednou ze [4 prvních zemí](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/), kde bude registrace vývojářů zavedena_
 

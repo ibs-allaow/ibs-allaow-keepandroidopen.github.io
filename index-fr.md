@@ -83,7 +83,7 @@ Les plaintes sont particulièrement efficaces lorsqu'elles émanent d'un citoyen
 
 #### Thaïlande
 
-- Courriel : [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
+- Courriel : [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - Contactez l’[Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
 - _Remarque : La Thaïlande devrait faire partie des [4 premiers pays](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) où l’enregistrement des développeurs sera obligatoire._
 

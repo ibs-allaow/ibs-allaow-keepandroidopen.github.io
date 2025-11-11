@@ -83,7 +83,7 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
 - _Not: Singapur'un, geliştirici kaydının mecburi olacağı [ilk 4 ülkeden biri](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) olması beklenmektedir_
 
 #### Tayland
-- E-posta: [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
+- E-posta: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/) ile irtibata geçin
 - _Not: Tayland'ın, geliştirici kaydının mecburi olacağı [ilk 4 ülkeden biri](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) olması beklenmektedir_
 

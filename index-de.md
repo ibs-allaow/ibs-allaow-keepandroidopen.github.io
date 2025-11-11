@@ -83,7 +83,7 @@ Bitten Sie um eine **schriftliche Empfangsbestätigung*- Ihrer Beschwerde und er
 
 #### Thailand
 
-- E-Mail: [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
+- E-Mail: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - Kontaktieren Sie die [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)
 - *Hinweis: Thailand wird voraussichtlich zu den [ersten vier Ländern](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) gehören, in denen die Entwicklerregistrierung obligatorisch wird.*
 

@@ -82,7 +82,7 @@ Las quejas son especialmente eficaces cuando proceden de un ciudadano del país 
 
 #### Tailandia
 
-- Correo electrónico: [info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
+- Correo electrónico: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - Póngase en contacto con la [Oficina de la Comisión de Competencia Comercial (OTCC)](https://www.tcct.or.th/)
 - _Nota: Tailandia debería ser uno de los [cuatro primeros países](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) en los que el registro de desarrolladores será obligatorio._
 

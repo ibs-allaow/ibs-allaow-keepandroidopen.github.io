@@ -79,7 +79,7 @@ site_copyright: "**版權：**無。此著作乃標記為"
 
 #### 泰國
 
-- 電子郵件：[info@otcc.or.th](mailto:info@otcc.or.th?cc=thailand@keepandroidopen.org)
+- 電子郵件：[saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)
 - 聯絡[貿易競爭委員會辦公室 (OTCC)](https://www.tcct.or.th/)
 - _註：泰國已被指定為率先強制實施開發者註冊的[首階段 4 個國家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_
 
