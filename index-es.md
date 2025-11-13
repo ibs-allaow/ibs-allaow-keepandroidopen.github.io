@@ -147,6 +147,14 @@ Las quejas son especialmente efectivas cuando provienen de un ciudadano del paí
 
 - Póngase en contacto con la Comisión Filipina de Competencia [PCC](https://www.phcc.gov.ph/)
 
+
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+  
+
 ### Desarrolladores: resistan y rechacen
 
 Si son desarrolladores de aplicaciones, **no se inscriban** en el programa de acceso anticipado, no verifiquen su identidad y no acepten ninguna invitación a la consola de desarrolladores de Android. Respondan cortésmente a cualquier invitación enumerando sus preocupaciones y objeciones.

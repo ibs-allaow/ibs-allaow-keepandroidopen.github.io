@@ -148,6 +148,14 @@ Les plaintes sont particulièrement efficaces lorsqu'elles émanent d'un citoyen
 
 - Contactez la Commission philippine de la concurrence [PCC](https://www.phcc.gov.ph/)
 
+
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+  
+
 ### Développeurs : Résistez et refusez
 
 Si vous êtes développeur d'applications, **ne vous inscrivez pas** au programme d'accès anticipé, ne procédez pas à la vérification d'identité et n'acceptez aucune invitation à la console développeur Android. Répondez poliment à toute invitation en listant vos préoccupations et objections.

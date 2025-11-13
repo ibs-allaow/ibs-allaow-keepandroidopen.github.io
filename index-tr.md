@@ -137,6 +137,14 @@ Tüm dünyada düzenleyici kurumlar hakikaten teknoloji sektöründeki tekeller 
 #### Filipinler
 - [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/) ile irtibata geçin
 
+
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+
+
 ## Sesiniz duyulsun
 
 ### Açık Mektubu İmzalayın

@@ -155,6 +155,13 @@ Complaints are especially impactful when they are authored by a citizen of that 
 * Contact the [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)
 
 
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+
+
 
 ### Developers: Resist and refuse
 

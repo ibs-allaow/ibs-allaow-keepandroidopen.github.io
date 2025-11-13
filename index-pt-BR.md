@@ -148,6 +148,14 @@ As reclamações são especialmente impactantes quando são escritas por um cida
 
 - Entre em contato com a [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)
 
+
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+  
+
 ### Desenvolvedores: Resistam e rejeitem
 
 Se você é um desenvolvedor de aplicativo, _**não se inscreva**_ no programa de acesso antecipado, faça verificação de identidade, ou aceite um convite para o Android Developer Console. Responda (educadamente) qualquer convite com uma lista de preocupações e objeções.

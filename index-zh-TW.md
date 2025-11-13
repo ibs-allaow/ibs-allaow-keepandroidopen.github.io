@@ -152,6 +152,13 @@ site_copyright: "**版權：**無。此著作乃標記為"
 * 聯絡[經濟競爭保護辦公室 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)
 
 
+#### Ukraine
+
+- Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)
+- Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
+- Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
+
+
 
 ### 開發者：奮力抵抗、堅決說不
 
