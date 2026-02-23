@@ -1,4 +1,5 @@
 heading:
+  ar: "المستهلكون: تواصلوا مع الجهات التنظيمية الوطنية"
   en: "Consumers: Contact national regulators"
   ru: "Пользователи: обращайтесь к национальным регуляторам"
   de: "Verbraucher: Kontaktieren Sie die nationalen Aufsichtsbehörden"
@@ -19,6 +20,7 @@ heading:
   zh-TW: "消費者：聯絡國家監管機構"
 
 intro:
+  ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
   en: "Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition."
   ru: "Регуляторы по всему миру всерьёз обеспокоены монополиями и концентрацией власти в технологическом секторе и хотят напрямую слышать мнение людей, которых это затрагивает и волнует. Обращаясь к регуляторам напрямую, важно быть вежливым и конкретным в описании того вреда, который, по вашему мнению, эти политики могут нанести — как потребителям, так и конкуренции."
   de: "Regulierungsbehörden auf der ganzen Welt sind ernsthaft besorgt über Monopole und die zunehmende Machtkonzentration im Technologiesektor – und sie möchten die Stimmen der Betroffenen hören.\nWenn Sie Kontakt aufnehmen, seien Sie höflich und präzise, und beschreiben Sie genau, welchen Schaden diese Politik sowohl Verbrauchern als auch dem Wettbewerb zufügen könnte."
@@ -39,6 +41,7 @@ intro:
   zh-TW: "世界各地的監管機構都真誠地關注壟斷以及科技行業中的權力集中，並希望直接聽取受其影響並與其關切的個人所言。當直接聯絡監管機構時，您該 _保持禮貌_ 並 _具體說明_ 您相信此等政策將會導致的傷害，不論是有損消費者，還是有損競爭亦然。"
 
 follow_up:
+  ar: "تكون الشكاوى ذات تأثير بالغ، خاصةً عندما يُقدّمها مواطن من ذلك البلد أو المنطقة، وعندما تكون لغة البريد الإلكتروني إحدى اللغات الرسمية للهيئة الحاكمة في المنطقة. اطلبوا _إشعارًا كتابياً_ باستلام الشكوى، و يرجى إعادة توجيه أي ردود تتلقونها إلى [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) حتى نتمكن من تسليط الضوء عليها و الإشارة إليها."
   en: "Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them."
   ru: "Жалобы особенно действенны, когда их пишет гражданин соответствующей страны или региона, и когда письмо составлено на одном из официальных языков органа управления этого региона. Попросите _письменное подтверждение_ получения жалобы и, по возможности, пересылайте любые полученные ответы на [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org), чтобы мы могли их выделить и ссылаться на них."
   de: "Beschwerden sind besonders wirksam, wenn sie von Bürgern des jeweiligen Landes oder der Region eingereicht werden und in einer der Amtssprachen der zuständigen Behörde verfasst sind.\nBitten Sie um eine **schriftliche Empfangsbestätigung** Ihrer Beschwerde und erwägen Sie, jede erhaltene Antwort an [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) weiterzuleiten, damit wir sie veröffentlichen und dokumentieren können."
@@ -61,6 +64,7 @@ follow_up:
 countries:
   - id: european-union
     name:
+      ar: "الاتحاد الأوروبي"
       en: "European Union"
       ru: "Европейский союз"
       de: "Europäische Union"
@@ -81,6 +85,7 @@ countries:
       zh-TW: "歐盟"
     items:
       - text:
+          ar: "تواصل مع فريق قانون الأسواق الرقمية عبر البريد الإلكتروني [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           en: "Email Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           ru: "Электронная почта команды Digital Markets Act: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           de: "Email Digital Markets Act team: [EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
@@ -96,6 +101,7 @@ countries:
           zh-CN: "发邮件给《数字市场法》团队：[EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
           zh-TW: "寄送電子郵件至《數位市場法》(DMA) 團隊：[EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع فريق DMA: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
           en: "Contact DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
           ru: "Свяжитесь с командой DMA: [https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
           de: "Contact DMA team: [https://digital-markets-act.ec.europa.eu/contact-dma-team_de](https://digital-markets-act.ec.europa.eu/contact-dma-team_de)"
@@ -113,6 +119,7 @@ countries:
           zh-CN: "联系 DMA 团队：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
           zh-TW: "聯絡 DMA 團隊：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)"
       - text:
+          ar: "~~أرسل ملاحظاتك حول التفاعل بين قانون التسويق الرقمي (DMA) واللائحة العامة لحماية البيانات (GDPR) في الاتحاد الأوروبي: [استشارة بشأن المبادئ التوجيهية المشتركة حول التفاعل بين قانون التسويق الرقمي واللائحة العامة لحماية البيانات](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) حتى 4 ديسمبر.~~"
           en: "~~Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.~~"
           ru: "~~Отправьте отзыв о взаимодействии DMA и GDPR в ЕС: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) до 4 декабря.~~"
           de: "~~Geben Sie Ihre Stellungnahme zur Wechselwirkung zwischen DMA und DSGVO auf EU-Ebene ab: [Konsultation zu den gemeinsamen Leitlinien zur Wechselwirkung zwischen DMA und DSGVO](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) bis zum 4. Dezember.~~"
@@ -131,6 +138,7 @@ countries:
           zh-CN: "~~发送反馈给欧盟DMA与GDPR相互作用的意见反馈: [有关 DMA 与 GDPR 相互作用的联合指南咨询](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en)，截止于12月4日~~"
           zh-TW: "~~傳送有關歐盟 DMA 與 GDPR 相互作用的意見反映：[有關 DMA 與 GDPR 相互作用之聯合指引的諮詢](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en)，十二月 4 日截止。~~"
       - text:
+          ar: "البريد الإلكتروني لمكافحة الاحتكار: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           en: "Email Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           ru: "Электронная почта антимонопольного подразделения: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           de: "E-Mail Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
@@ -147,6 +155,7 @@ countries:
           zh-CN: "发邮件给反垄断: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
           zh-TW: "寄送電子郵件至反托拉斯：[COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)"
       - text:
+          ar: "قدم شكوى إلى [سياسة المنافسة في الاتحاد الأوروبي] (https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) "
           en: "Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           ru: "Подайте жалобу в [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           de: "Reichen Sie eine Beschwerde bei der [EU-Wettbewerbspolitik](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) ein."
@@ -165,6 +174,7 @@ countries:
           zh-CN: "向[欧盟竞争政策](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)投诉"
           zh-TW: "向[歐盟競爭政策](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)投訴"
       - text:
+          ar: "~~[انتهت الصلاحية] أرسل ملاحظاتك حول قانون الإنصاف الرقمي للاتحاد الأوروبي: [قانون الإنصاف الرقمي للاتحاد الأوروبي: شارك برأيك](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~"
           en: "~~[EXPIRED] Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~"
           ru: "~~[ИСТЕКЛО] Отправьте отзыв по EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~"
           de: "~~[ABGELAUFEN] Kommentieren Sie das Gesetz über digitale Fairness: [Digital Fairness Act – Ihre Meinung zählt](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~"
@@ -184,6 +194,7 @@ countries:
           zh-TW: "~~[**逾期**] 傳送有關歐盟《數位公平法》的意見反映：[歐盟《數位公平法》：您又怎麼說](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~"
   - id: united-kingdom
     name:
+      ar: "المملكة المتحدة"
       en: "United Kingdom"
       ru: "Великобритания"
       de: "Vereinigtes Königreich"
@@ -204,6 +215,7 @@ countries:
       zh-TW: "英國"
     items:
       - text:
+          ar: "البريد الإلكتروني: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)"
           en: "Email: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)"
           ru: "Электронная почта: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)"
           de: "E-Mail: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)"
@@ -218,6 +230,7 @@ countries:
           zh-CN: "电子邮件: [general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)"
           zh-TW: "電子郵件：[general.enquiries@cma.gov.uk](mailto:general.enquiries@cma.gov.uk?cc=uk@keepandroidopen.org)"
       - text:
+          ar: "قدم تقريراً إلى [هيئة المنافسة والأسواق في المملكة المتحدة](https://contact-the-cma.service.gov.uk/wizard/classify)"
           en: "Make a report to the [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)"
           ru: "Отправьте обращение в [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)"
           de: "Reichen Sie eine Meldung bei der [Competition & Markets Authority (CMA)](https://contact-the-cma.service.gov.uk/wizard/classify) ein."
@@ -237,6 +250,7 @@ countries:
           zh-TW: "向[英國競爭與市場管理局](https://contact-the-cma.service.gov.uk/wizard/classify)提出報告"
   - id: united-states
     name:
+      ar: "الولايات المتحدة الأمريكية"
       en: "United States"
       ru: "Соединенные Штаты"
       de: "USA"
@@ -256,6 +270,7 @@ countries:
       zh-TW: "美國"
     items:
       - text:
+          ar: "قدّم تقريراً إلى [قسم مكافحة الاحتكار التابع لوزارة العدل الأمريكية عبر الإنترنت](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
           en: "Make a report to the [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
           ru: "Отправьте обращение в [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
           de: "Melden Sie sich beim [US-Justizministerium – Online-Antitrust-Meldungsformular](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
@@ -273,6 +288,7 @@ countries:
           zh-CN: "向[美国司法部反垄断在线举报](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)举报"
           zh-TW: "向[美國司法部線上反托拉斯報告](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)提出報告"
       - text:
+          ar: "قدّم شكوى إلى [لجنة التجارة الفيدرالية الأمريكية: شكاوى مكافحة الاحتكار](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
           en: "File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
           ru: "Подайте жалобу в [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
           de: "Reichen Sie eine Beschwerde bei der [Federal Trade Commission – Antitrust-Beschwerden](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake) ein."
@@ -290,6 +306,7 @@ countries:
           zh-CN: "向[美国联邦贸易委员会：反垄断投诉](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)投诉"
           zh-TW: "與[美國聯邦貿易委員會：反托拉斯投訴](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)開立投訴"
       - text:
+          ar: "~~البريد الإلكتروني (غير فعال): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
           en: "~~Email (DEFUNCT): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
           ru: "~~Электронная почта (НЕ ДЕЙСТВУЕТ): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
           de: "~~E-Mail (deaktiviert): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
@@ -307,6 +324,7 @@ countries:
           zh-CN: "~~电子邮件 (失效)：[antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
           zh-TW: "~~電子郵件 (**失效**)：[antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
       - text:
+          ar: "~~البريد الإلكتروني (غير فعال): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
           en: "~~Email (DEFUNCT): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
           ru: "~~Электронная почта (НЕ ДЕЙСТВУЕТ): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
           de: "~~E-Mail (deaktiviert): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
@@ -325,6 +343,7 @@ countries:
           zh-TW: "~~電子郵件 (**失效**)：[antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
   - id: brazil
     name:
+      ar: "البرازيل"
       en: "Brazil"
       ru: "Бразилия"
       de: "Brasilien"
@@ -344,6 +363,7 @@ countries:
       zh-TW: "巴西"
     items:
       - text:
+          ar: "البريد الإلكتروني: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)"
           en: "Email: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)"
           ru: "Электронная почта: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)"
           de: "E-Mail: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)"
@@ -358,6 +378,7 @@ countries:
           zh-CN: "电子邮件: [superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)"
           zh-TW: "電子郵件：[superintendencia@cade.gov.br](mailto:superintendencia@cade.gov.br?cc=brazil@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع Procon (يعتمد على ولايتك) و[Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)"
           en: "Reach out to Procon (depends on your state) and [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)"
           ru: "Свяжитесь с Procon (зависит от вашего штата) и [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)"
           de: "Kontaktieren Sie Procon (je nach Bundesstaat) und [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)"
@@ -376,6 +397,7 @@ countries:
           zh-CN: "联系 Procon (取决于你所在的州)和[Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)"
           zh-TW: "接觸 Procon (視乎您的州份而定) 和 [Senacon](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/consumidor)"
       - text:
+          ar: "_ملاحظة: من المقرر أن تكون البرازيل واحدة من [الدول الأربع الأولى](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) التي سيتم فيها تطبيق تسجيل المطورين._"
           en: "_Note: Brazil is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_"
           ru: "_Примечание: Бразилия входит в число [первых 4 стран](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/), где будет принудительно введена регистрация разработчиков_"
           de: "*Hinweis: Brasilien wird voraussichtlich zu den [ersten vier Ländern](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) gehören, in denen die Entwicklerregistrierung obligatorisch wird.*"
@@ -397,6 +419,7 @@ countries:
 
   - id: singapore
     name:
+      ar: "سنغافورة"
       en: "Singapore"
       ru: "Сингапур"
       de: "Singapur"
@@ -417,6 +440,7 @@ countries:
       zh-TW: "新加坡"
     items:
       - text:
+          ar: "البريد الإلكتروني: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)"
           en: "Email: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)"
           ru: "Электронная почта: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)"
           de: "E-Mail: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)"
@@ -431,6 +455,7 @@ countries:
           zh-CN: "电子邮件: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)"
           zh-TW: "電子郵件：[cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [لجنة المنافسة وحماية المستهلك في سنغافورة (CCCS)](https://www.cccs.gov.sg)"
           en: "Contact the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)"
           ru: "Свяжитесь с [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)"
           de: "Kontaktieren Sie die [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)"
@@ -449,6 +474,7 @@ countries:
           zh-CN: "联系[新加坡竞争与消费者委员会 (CCCS)](https://www.cccs.gov.sg)"
           zh-TW: "聯絡[新加坡競爭與消費者委員會 (CCCS)](https://www.cccs.gov.sg)"
       - text:
+          ar: "_ملاحظة: من المقرر أن تكون سنغافورة واحدة من [الدول الأربع الأولى](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) التي سيتم فيها تطبيق تسجيل المطورين._"
           en: "_Note: Singapore is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_"
           ru: "_Примечание: Сингапур входит в число [первых 4 стран](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/), где будет принудительно введена регистрация разработчиков_"
           de: "*Hinweis: Singapur wird voraussichtlich zu den [ersten vier Ländern](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) gehören, in denen die Entwicklerregistrierung obligatorisch wird.*"
@@ -469,6 +495,7 @@ countries:
           zh-TW: "_註：新加坡已被指定為率先強制實施開發者註冊的[首階段 4 個國家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_"
   - id: thailand
     name:
+      ar: "تايلاند"
       en: "Thailand"
       ru: "Таиланд"
       de: "Thailand"
@@ -489,6 +516,7 @@ countries:
       zh-TW: "泰國"
     items:
       - text:
+          ar: "البريد الإلكتروني: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)"
           en: "Email: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)"
           ru: "Электронная почта: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)"
           de: "E-Mail: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)"
@@ -503,6 +531,7 @@ countries:
           zh-CN: "电子邮件: [saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)"
           zh-TW: "電子郵件：[saraban@tcct.or.th](mailto:saraban@tcct.or.th?cc=thailand@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [مكتب لجنة المنافسة التجارية (OTCC)](https://www.tcct.or.th/)"
           en: "Contact the [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           ru: "Свяжитесь с [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           de: "Kontaktieren Sie die [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
@@ -521,6 +550,7 @@ countries:
           zh-CN: "联系[贸易竞争委员会办公室 (OTCC)](https://www.tcct.or.th/)"
           zh-TW: "聯絡[貿易競爭委員會辦公室 (OTCC)](https://www.tcct.or.th/)"
       - text:
+          ar: "البريد الإلكتروني: [info@etda.or.th](mailto:info@etda.or.th?cc=thailand@keepandroidopen.org)"
           en: "Email: [info@etda.or.th](mailto:info@etda.or.th?cc=thailand@keepandroidopen.org)"
           ru: "Электронная почта: [info@etda.or.th](mailto:info@etda.or.th?cc=thailand@keepandroidopen.org)"
           th: "อีเมล: [info@etda.or.th](mailto:info@etda.or.th?cc=thailand@keepandroidopen.org)"
@@ -529,6 +559,7 @@ countries:
           ko: "Email: [info@etda.or.th](mailto:info@etda.or.th?cc=thailand@keepandroidopen.org)"
           zh-TW: "電子郵件：[info@etda.or.th](mailto:info@etda.or.th?cc=thailand@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [وكالة تطوير المعاملات الإلكترونية (ETDA)](https://www.etda.or.th/en/contact/contact.aspx)"
           en: "Contact the [Electronic Transactions Development Agency (ETDA)](https://www.etda.or.th/en/contact/contact.aspx)"
           ru: "Свяжитесь с [Electronic Transactions Development Agency (ETDA)](https://www.etda.or.th/en/contact/contact.aspx)"
           th: "ติดต่อ [สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิคส์ (ETDA)](https://www.etda.or.th/en/contact/contact.aspx)"
@@ -537,6 +568,7 @@ countries:
           ko: "Contact the [Electronic Transactions Development Agency (ETDA)](https://www.etda.or.th/en/contact/contact.aspx)"
           zh-TW: "聯絡[電子交易發展局 (ETDA)](https://www.etda.or.th/en/contact/contact.aspx)"
       - text:
+          ar: "البريد الإلكتروني: Email: [contact@tcc.or.th](mailto:contact@tcc.or.th?cc=thailand@keepandroidopen.org)"
           en: "Email: [contact@tcc.or.th](mailto:contact@tcc.or.th?cc=thailand@keepandroidopen.org)"
           ru: "Электронная почта: [contact@tcc.or.th](mailto:contact@tcc.or.th?cc=thailand@keepandroidopen.org)"
           th: "อีเมล: [contact@tcc.or.th](mailto:contact@tcc.or.th?cc=thailand@keepandroidopen.org)"
@@ -545,6 +577,7 @@ countries:
           ko: "Email: [contact@tcc.or.th](mailto:contact@tcc.or.th?cc=thailand@keepandroidopen.org)"
           zh-TW: "電子郵件：[contact@tcc.or.th](mailto:contact@tcc.or.th?cc=thailand@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [مجلس المستهلكين التايلاندي (TCC)](https://www.tcc.or.th/)"
           en: "Contact the [Thailand Consumers Council (TCC)](https://www.tcc.or.th/)"
           ru: "Свяжитесь с [Thailand Consumers Council (TCC)](https://www.tcc.or.th/)"
           th: "ติดต่อ [สำนักงานคุ้มครองผู้บริโภค (TCC)](https://www.tcc.or.th/)"
@@ -553,6 +586,7 @@ countries:
           ko: "Contact the [Thailand Consumers Council (TCC)](https://www.tcc.or.th/)"
           zh-TW: "聯絡[泰國消費者委員會 (TCC)](https://www.tcc.or.th/)"
       - text:
+          ar: "_ملاحظة: من المقرر أن تكون تايلاند واحدة من [الدول الأربع الأولى](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) التي سيتم فيها تطبيق تسجيل المطورين. _"
           en: "_Note: Thailand is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_"
           ru: "_Примечание: Таиланд входит в число [первых 4 стран](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/), где будет принудительно введена регистрация разработчиков_"
           de: "*Hinweis: Thailand wird voraussichtlich zu den [ersten vier Ländern](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) gehören, in denen die Entwicklerregistrierung obligatorisch wird.*"
@@ -574,6 +608,7 @@ countries:
 
   - id: indonesia
     name:
+      ar: "إندونيسيا"
       en: "Indonesia"
       ru: "Индонезия"
       de: "Indonesien"
@@ -594,6 +629,7 @@ countries:
       zh-TW: "印尼"
     items:
       - text:
+          ar: "البريد الإلكتروني: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)"
           en: "Email: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)"
           ru: "Электронная почта: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)"
           de: "E-Mail: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)"
@@ -607,6 +643,7 @@ countries:
           uk: "Електронна пошта: [infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)"
           zh-TW: "電子郵件：[infokom@kppu.go.id](mailto:infokom@kppu.go.id?cc=indonesia@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [KPPU لتقديم شكاوى المنافسة](https://eng.kppu.go.id)"
           en: "Contact the [KPPU for Competition Complaints](https://eng.kppu.go.id)"
           ru: "Свяжитесь с [KPPU for Competition Complaints](https://eng.kppu.go.id)"
           de: "Kontaktieren Sie die [KPPU für Wettbewerbsbeschwerden](https://eng.kppu.go.id)"
@@ -625,6 +662,7 @@ countries:
           zh-CN: "Contact the [KPPU 竞争投诉处理](https://eng.kppu.go.id)"
           zh-TW: "聯絡 [KPPU 提出競爭投訴](https://eng.kppu.go.id)"
       - text:
+          ar: "_ملاحظة: من المقرر أن تكون إندونيسيا واحدة من [الدول الأربع الأولى](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) التي سيتم فيها تطبيق تسجيل المطورين._"
           en: "_Note: Indonesia is slated to be one of the [initial 4 countries](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) where developer registration will be enforced_"
           ru: "_Примечание: Индонезия входит в число [первых 4 стран](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/), где будет принудительно введена регистрация разработчиков_"
           de: "*Hinweis: Indonesien wird voraussichtlich zu den [ersten vier Ländern](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) gehören, in denen die Entwicklerregistrierung obligatorisch wird.*"
@@ -645,6 +683,7 @@ countries:
           zh-TW: "_註：印尼已被指定為率先強制實施開發者註冊的[首階段 4 個國家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_"
   - id: "switzerland"
     name:
+      ar: "سويسرا"
       en: "Switzerland"
       ru: "Швейцария"
       de: "Switzerland"
@@ -665,6 +704,7 @@ countries:
       zh-TW: "瑞士"
     items:
       - text:
+          ar: "قدّم تقريراً إلى [لجنة المنافسة](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
           en: "File a report with the [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
           ru: "Подайте обращение в [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
           it: "Presenta una segnalazione [Competition Commission](https://www.weko.admin.ch/weko/en/home/kontakt/kontakt.html)"
@@ -680,6 +720,7 @@ countries:
 
   - id: "australia"
     name:
+      ar: "أستراليا"
       en: "Australia"
       ru: "Австралия"
       de: "Australien"
@@ -700,6 +741,7 @@ countries:
       zh-TW: "澳洲"
     items:
       - text:
+          ar: "البريد الإلكتروني: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)"
           en: "Email: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)"
           ru: "Электронная почта: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)"
           de: "E-Mail: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)"
@@ -715,6 +757,7 @@ countries:
           zh-CN: "电子邮件: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)"
           zh-TW: "電子郵件：[international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)"
       - text:
+          ar: "قدّم تقريراً إلى [هيئة المنافسة وحماية المستهلك الأسترالية (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)"
           en: "File a report with the [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)"
           ru: "Подайте обращение в [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)"
           de: "Reichen Sie eine Beschwerde bei der [Australian Competition and Consumer Commission (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue) ein."
@@ -733,6 +776,7 @@ countries:
           zh-CN: "向[澳大利亚竞争和消费者委员会  (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)举报"
           zh-TW: "與[澳大利亞競爭暨消費者委員會 (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue) 開立報告"
       - text:
+          ar: "أرسل طلبًا إلى جمعية المستهلكين الأسترالية ([CHOICE](https://accounts.choice.com.au/contact-us/)). واطلب منهم تقديم شكوى محددة إلى لجنة المنافسة وحماية المستهلك الأسترالية (ACCC)."
           en: "Send a request to Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ask them to lodge a designated complaint to the Australian Competition & Consumer Comission (ACCC)."
           ru: "Отправьте запрос в Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Попросите их подать официальную жалобу в Australian Competition & Consumer Comission (ACCC)."
           de: "Kontaktieren Sie die australische Verbraucherorganisation ([CHOICE](https://accounts.choice.com.au/contact-us/)) und bitten Sie sie, eine Beschwerde bei der ACCC einzureichen."
@@ -751,6 +795,7 @@ countries:
           zh-CN: "向澳大利亚消费者协会发送请求 ([CHOICE](https://accounts.choice.com.au/contact-us/))。要求他们向澳大利亚竞争与消费者委员会 (ACCC) 提出一则指定投诉。"
           zh-TW: "傳送請求至澳洲的澳大利亞消費者協會 ([CHOICE](https://accounts.choice.com.au/contact-us/))。請求其向澳大利亞競爭暨消費者委員會 (ACCC) 提出一則指定投訴。"
       - text:
+          ar: "تواصل مع عضو البرلمان المحلي أو عضو مجلس الشيوخ في ولايتك. إذا كنت لا تعرف دائرتك الانتخابية، يمكنك العثور عليها [هنا](https://electorate.aec.gov.au/)، ويمكنك البحث عن أعضاء البرلمان أو أعضاء مجلس الشيوخ [هنا](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           en: "Contact your local Member of Parliament or State Senator. If you don’t know your electorate, you can find it [here](https://electorate.aec.gov.au/), and you can search for your Parliamentarians or Senators [here](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           ru: "Свяжитесь с вашим местным членом парламента или сенатором штата. Если вы не знаете свой избирательный округ, его можно найти [здесь](https://electorate.aec.gov.au/), а ваших парламентариев или сенаторов — [здесь](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           de: "Kontaktieren Sie Ihr örtliches Mitglied des Parlaments oder einen Landessenator. Wenn Sie Ihre Wahlkreis nicht kennen, können Sie ihn [hier](https://electorate.aec.gov.au/) finden und Ihre Parlamentsmitglieder oder Senatoren [hier](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results) suchen."
@@ -771,6 +816,7 @@ countries:
 
   - id: "japan"
     name:
+      ar: "اليابان"
       en: "Japan"
       ru: "Япония"
       de: "Japan"
@@ -791,6 +837,7 @@ countries:
       zh-TW: "日本"
     items:
       - text:
+          ar: "البريد الإلكتروني: Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
           en: "Email: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
           ru: "Электронная почта: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
           de: "E-Mail: [intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
@@ -806,6 +853,7 @@ countries:
           zh-CN: "电子邮件：[intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
           zh-TW: "電子郵件：[intnldiv@jftc.go.jp](mailto:intnldiv@jftc.go.jp?cc=japan@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [لجنة التجارة العادلة اليابانية (JFTC)](https://www.jftc.go.jp/)"
           en: "Contact the [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/)"
           ru: "Свяжитесь с [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/)"
           de: "Kontaktieren Sie die [Japanische Wettbewerbsbehörde (JFTC)](https://www.jftc.go.jp/)"
@@ -826,6 +874,7 @@ countries:
 
   - id: "south-korea"
     name:
+      ar: "كوريا الجنوبية"
       en: "South Korea"
       ru: "Южная Корея"
       de: "Südkorea"
@@ -845,6 +894,7 @@ countries:
       zh-TW: "南韓"
     items:
       - text:
+          ar: "البريد الإلكتروني: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)"
           en: "Email: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)"
           ru: "Электронная почта: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)"
           de: "E-Mail: [kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)"
@@ -860,6 +910,7 @@ countries:
           zh-CN: "电子邮件：[kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)"
           zh-TW: "電子郵件：[kftc@korea.kr](mailto:kftc@korea.kr?cc=korea@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [لجنة التجارة العادلة الكورية (KFTC)](https://www.ftc.go.kr/)"
           en: "Contact the [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/)"
           ru: "Свяжитесь с [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/)"
           de: "Kontaktieren Sie die [Koreanische Wettbewerbsbehörde (KFTC)](https://www.ftc.go.kr/)"
@@ -880,6 +931,7 @@ countries:
 
   - id: "india"
     name:
+      ar: "الهند"
       en: "India"
       ru: "Индия"
       de: "Indien"
@@ -900,6 +952,7 @@ countries:
       zh-TW: "印度"
     items:
       - text:
+          ar: "البريد الإلكتروني: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)"
           en: "Email: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)"
           ru: "Электронная почта: [cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)"
           de: "E-Mail: [cci-chairman@nic.in](mailto:cci-chairman@nic.in?cc=india@keepandroidopen.org)"
@@ -915,6 +968,7 @@ countries:
           zh-CN: "电子邮件：[cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)"
           zh-TW: "電子郵件：[cci‑chairman@nic.in](mailto:cci‑chairman@nic.in?cc=india@keepandroidopen.org)"
       - text:
+          ar: "اتصل بـ [لجنة المنافسة في الهند (CCI)](https://www.cci.gov.in/)"
           en: "Contact the [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
           ru: "Свяжитесь с [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
           de: "Kontaktieren Sie die [Wettbewerbskommission Indiens (CCI)](https://www.cci.gov.in/)"
@@ -935,6 +989,7 @@ countries:
 
   - id: "canada"
     name:
+      ar: "كندا"
       en: "Canada"
       ru: "Канада"
       de: "Kanada"
@@ -955,6 +1010,7 @@ countries:
       zh-TW: "加拿大"
     items:
       - text:
+          ar: "البريد الإلكتروني: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
           en: "Email: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
           ru: "Электронная почта: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
           de: "E-Mail: [info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
@@ -970,6 +1026,7 @@ countries:
           zh-CN: "电子邮件：[info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
           zh-TW: "電子郵件：[info@competitionbureau.gc.ca](mailto:info@competitionbureau.gc.ca?cc=canada@keepandroidopen.org)"
       - text:
+          ar: "قدّم شكوى إلى [مكتب المنافسة الكندي](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           en: "Make a complaint to [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           ru: "Подайте жалобу в [Competition Bureau Canada](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           de: "Reichen Sie eine Beschwerde beim [Wettbewerbsbüro Kanadas](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form) ein."
@@ -988,6 +1045,7 @@ countries:
           zh-CN: "向[加拿大竞争局](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)投诉"
           zh-TW: "向[加拿大競爭局](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)提出投訴"
       - text:
+          ar: "قدّم بلاغاً إلى [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           en: "File a report with the [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           ru: "Подайте обращение через [https://competition-bureau.canada.ca/en](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form)"
           de: "Reichen Sie einen Bericht über dasselbe [Online-Formular](https://competition-bureau.canada.ca/en/contact-competition-bureau-canada/complaint-form) ein."
@@ -1008,6 +1066,7 @@ countries:
 
   - id: "taiwan"
     name:
+      ar: "تايوان"
       en: "Taiwan"
       ru: "Тайвань"
       de: "Taiwan"
@@ -1028,6 +1087,7 @@ countries:
       zh-TW: "臺灣"
     items:
       - text:
+          ar: "البريد الإلكتروني: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)"
           en: "Email: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)"
           ru: "Электронная почта: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)"
           de: "E-Mail: [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)"
@@ -1043,6 +1103,7 @@ countries:
           zh-CN: "电子邮件： [ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)"
           zh-TW: "電子郵件：[ftc@ftc.gov.tw](mailto:ftc@ftc.gov.tw?cc=taiwan@keepandroidopen.org)"
       - text:
+          ar: "اتصل بـ [لجنة التجارة العادلة (FTC)](https://www.ftc.gov.tw/)"
           en: "Contact the [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)"
           ru: "Свяжитесь с [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)"
           de: "Kontaktieren Sie die [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)"
@@ -1063,6 +1124,7 @@ countries:
 
   - id: "turkey"
     name:
+      ar: "تركيا"
       en: "Turkey"
       ru: "Турция"
       de: "Türkei"
@@ -1083,6 +1145,7 @@ countries:
       zh-TW: "土耳其"
     items:
       - text:
+          ar: " تواصل مع [Rekabet Kurumu / هيئة المنافسة التركية (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           en: "Contact the [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           ru: "Свяжитесь с [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           de: "Kontaktieren Sie die [Rekabet Kurumu / Türkische Wettbewerbsbehörde (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
@@ -1103,6 +1166,7 @@ countries:
 
   - id: "argentina"
     name:
+      ar: "الأرجنتين"
       en: "Argentina"
       ru: "Аргентина"
       de: "Argentinien"
@@ -1123,6 +1187,7 @@ countries:
       zh-TW: "阿根廷"
     items:
       - text:
+          ar: "البريد الإلكتروني: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)"
           en: "Email: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)"
           ru: "Электронная почта: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)"
           de: "E-Mail: [cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)"
@@ -1138,6 +1203,7 @@ countries:
           zh-CN: "电子邮件：[cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)"
           zh-TW: "電子郵件：[cndc@produccion.gob.ar](mailto:cndc@produccion.gob.ar?cc=argentina@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [اللجنة الوطنية للدفاع عن المنافسة (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           en: "Contact the [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           ru: "Свяжитесь с [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           de: "Kontaktieren Sie die [Nationale Kommission für Wettbewerbsverteidigung (CNDC)]"
@@ -1158,6 +1224,7 @@ countries:
 
   - id: "mexico"
     name:
+      ar: "المكسيك"
       en: "Mexico"
       ru: "Мексика"
       de: "Mexiko"
@@ -1178,6 +1245,7 @@ countries:
       zh-TW: "墨西哥"
     items:
       - text:
+          ar: "البريد الإلكتروني: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)"
           en: "Email: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)"
           ru: "Электронная почта: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)"
           de: "E-Mail: [denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)"
@@ -1193,6 +1261,7 @@ countries:
           zh-CN: "电子邮件：[denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)"
           zh-TW: "電子郵件：[denuncias@antimonopolio.gob.mx](mailto:denuncias@antimonopolio.gob.mx?cc=mexico@keepandroidopen.org)"
       - text:
+          ar: "اتصل بـ [اللجنة الوطنية لمكافحة الاحتكار](https://www.antimonopolio.gob.mx/Micrositios/)"
           en: "Contact the [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)"
           ru: "Свяжитесь с [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)"
           de: "Kontaktieren Sie die [Nationale Antimonopolkommission](https://www.antimonopolio.gob.mx/Micrositios/)"
@@ -1213,6 +1282,7 @@ countries:
 
   - id: "philippines"
     name:
+      ar: "الفلبين"
       en: "Philippines"
       ru: "Филиппины"
       de: "Philippinen"
@@ -1233,6 +1303,7 @@ countries:
       zh-TW: "菲律賓"
     items:
       - text:
+          ar: "تواصل مع [لجنة المنافسة الفلبينية (PCC)](https://www.phcc.gov.ph/)"
           en: "Contact the [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)"
           ru: "Свяжитесь с [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)"
           de: "Kontaktieren Sie die [Philippinische Wettbewerbsbehörde (PCC)](https://www.phcc.gov.ph/)"
@@ -1253,6 +1324,7 @@ countries:
 
   - id: "poland"
     name:
+      ar: "بولندا"
       en: "Poland"
       ru: "Польша"
       ko: "폴란드"
@@ -1263,6 +1335,7 @@ countries:
       zh-TW: "波蘭"
     items:
       - text:
+          ar: "البريد الإلكتروني: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           en: "Email: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           ru: "Электронная почта: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           th: "อีเมล: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
@@ -1270,6 +1343,7 @@ countries:
           pl: "E-mail: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
           zh-TW: "電子郵件：[uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
       - text:
+          ar: "تواصل مع [مكتب حماية المنافسة والمستهلك (UOKiK)](https://uokik.gov.pl/)"
           en: "Contact the [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
           ru: "Свяжитесь с [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
           el: "Επικοινωνήστε με το [Γραφείο Ανταγωνισμού και Προστασίας του Καταναλωτή (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
@@ -1280,6 +1354,7 @@ countries:
 
   - id: "czech-republic"
     name:
+      ar: "الجمهورية التشيكية"
       en: "Czech Republic"
       ru: "Чешская Республика"
       it: "Repubblica Ceca"
@@ -1295,6 +1370,7 @@ countries:
       zh-TW: "捷克共和國"
     items:
       - text:
+          ar: "البريد الإلكتروني: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           en: "Email: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           ru: "Электронная почта: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           it: "E-mail: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
@@ -1307,6 +1383,7 @@ countries:
           zh-CN: "电子邮件：[posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
           zh-TW: "電子郵件：[posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
       - text:
+          ar: "اتصل بـ [مكتب حماية المنافسة (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           en: "Contact the [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           ru: "Свяжитесь с [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           it: "Contatta [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
@@ -1322,6 +1399,7 @@ countries:
 
   - id: "ukraine"
     name:
+      ar: "أوكرانيا"
       en: "Ukraine"
       ru: "Украина"
       de: "Ukraine"
@@ -1341,6 +1419,7 @@ countries:
       zh-TW: "烏克蘭"
     items:
       - text:
+          ar: "تواصل مع [اللجنة الوطنية لتنظيم الاتصالات الإلكترونية](https://nkek.gov.ua/)"
           en: "Contact the [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)"
           ru: "Свяжитесь с [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)"
           it: "Contatta [National Commission for the State Regulation of Electronic Communications](https://nkek.gov.ua/)"
@@ -1354,6 +1433,7 @@ countries:
           zh-CN: "联系[国家电子通信监管委员会](https://nkek.gov.ua/)"
           zh-TW: "聯絡[國家電子通訊監管委員會](https://nkek.gov.ua/)"
       - text:
+          ar: "تواصل مع [وزارة التحول الرقمي](https://thedigital.gov.ua/)"
           en: "Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)"
           ru: "Свяжитесь с [Ministry of Digital Transformation](https://thedigital.gov.ua/)"
           it: "Contatta [Ministry of Digital Transformation](https://thedigital.gov.ua/)"
@@ -1367,6 +1447,7 @@ countries:
           zh-CN: "联系[数字化转型部](https://thedigital.gov.ua/)"
           zh-TW: "聯絡[數位轉型部](https://thedigital.gov.ua/)"
       - text:
+          ar: "تواصل مع [لجنة مكافحة الاحتكار في أوكرانيا](https://amcu.gov.ua/)"
           en: "Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)"
           ru: "Свяжитесь с [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)"
           it: "Contatta [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)"
@@ -1382,6 +1463,7 @@ countries:
 
   - id: "slovakia"
     name:
+      ar: "سلوفاكيا"
       en: "Slovakia"
       ru: "Словакия"
       sk: "Slovenská republika"
@@ -1390,6 +1472,7 @@ countries:
       - sk
     items:
       - text:
+          ar: "البريد الإلكتروني: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
           en: "E-mail: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
           ru: "Электронная почта: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
           sk: "E-mail: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
@@ -1401,17 +1484,21 @@ countries:
           zh-TW: "聯絡[斯洛伐克共和國反壟斷局](https://www.antimon.gov.sk/en/)"
   - id: "chinese-mainland"
     name:
+      ar: "جمهورية الصين"
       en: "Chinese Mainland"
       zh-CN: "中国大陆"
       zh-TW: "中國大陸"
     items:
       - text:
+          ar: "تواصل مع [الإدارة الحكومية لتنظيم السوق (SAMR)](https://www.samr.gov.cn/) عن طريق الاتصال بالرقم 010-88650000."
           en: "Contact the [State Administration for Market Regulations (SAMR)](https://www.samr.gov.cn/) by calling 010-88650000."
           zh-CN: "通过拨打010-88650000以联络[国家市场监督管理总局](https://www.samr.gov.cn/)"
       - text:
+          ar: "الاتصال بالخط الساخن المحلي 12315. يُرجى العلم أن هذا قد يستغرق وقتًا إضافيًا، حيث أن الشركات الاحتكارية عادةً ما يتم التعامل معها مباشرةً من قبل مجلس الدولة. وهم مُلزمون بالرد بموجب القانون."
           en: "Calling your local 12315 hotline. Note this may take extra time, as monopolies are usually dealt with by the State Council directly. They are required to respond by law."
           zh-CN: "拨打本地12315热线，但因垄断案件通常移交国家总局处理可能会耗费多余时间，依法必须给予反馈"
       - text:
+          ar: "متاح عبر الإنترنت على [12315.cn](https://www.12315.cn/). المنصة متاحة فقط في جمهورية الصين لمنع الهجمات الإلكترونية."
           en: "Online at [12315.cn](https://www.12315.cn/). Platform only accessible in the Chinese Mainland to prevent cyber attacks."
           zh-CN: "线上[全国12315平台](https://www.12315.cn/)，为防止网络攻击仅可在中国大陆访问"
       

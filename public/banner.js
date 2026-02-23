@@ -24,6 +24,7 @@
 
   // ── Localized banner strings ──────────────────────────────────────────
   var messages = {
+    ar:      "سيصبح نظام أندرويد منصة مغلقة في",
     en:      "Android will become a locked-down platform",
     ca:      "Android es convertir\u00E0 en una plataforma tancada",
     cs:      "Android will become a locked-down platform in",

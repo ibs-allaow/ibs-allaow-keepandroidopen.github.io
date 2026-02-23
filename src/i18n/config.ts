@@ -1,4 +1,5 @@
 export const languages = {
+  ar: { label: "العربية", path: "/ar/"},
   en: { label: "English", path: "/" },
   fr: { label: "Français", path: "/fr/" },
   de: { label: "Deutsch", path: "/de/" },
