@@ -47,7 +47,7 @@ Re: Mandatory Developer Registration for Android App Distribution
 
 * * *
 
-We, the undersigned organizations representing civil society, nonprofit institutions, and technology organizations, write to express our strong opposition to Google's announced policy requiring all Android app developers to register centrally with Google in order to distribute applications outside of the Google Play Store, set to take effect worldwide in the coming months.
+We, the undersigned organizations representing civil society, nonprofit institutions, and technology companies, write to express our strong opposition to Google's announced policy requiring all Android app developers to register centrally with Google in order to distribute applications outside of the Google Play Store, set to take effect worldwide in the coming months.
 
 While we do recognize the importance of platform security and user safety, the Android platform already includes multiple security mechanisms that do not require central registration. Forcibly injecting an alien security model that runs counter to Android's historic open nature threatens innovation, competition, privacy, and user freedom. We implore Google to withdraw this policy and work with the open-source and security communities on less restrictive alternatives.
 
