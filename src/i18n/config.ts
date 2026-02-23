@@ -11,6 +11,7 @@ export const languages = {
   "cs": { label: "Čeština", path: "/cs/" },
   "sk": { label: "Slovenčina", path: "/sk/" },
   "ar": { label: "العربية", path: "/ar/"},
+  "fa": { label: "فارسی", path: "/fa/"},
   "tr": { label: "Türkçe", path: "/tr/" },
   "el": { label: "Ελληνικά", path: "/el/" },
   "th": { label: "ไทย", path: "/th/" },

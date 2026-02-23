@@ -1,5 +1,6 @@
 heading:
   ar: "المستهلكون: تواصلوا مع الجهات التنظيمية الوطنية"
+  fa: "مصرف‌کنندگان: با قانون‌گذاران خود، تماس بگیرید"
   en: "Consumers: Contact national regulators"
   ru: "Пользователи: обращайтесь к национальным регуляторам"
   de: "Verbraucher: Kontaktieren Sie die nationalen Aufsichtsbehörden"
@@ -21,6 +22,7 @@ heading:
 
 intro:
   ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
+  fa: "نهادهای ناظر در سراسر جهان واقعاً نسبت به انحصارها و تمرکز قدرت در بخش فناوری نگران‌اند و مایل‌اند مستقیماً از افرادی که تحت تأثیر قرار گرفته‌اند و دغدغه دارند، بشنوند. هنگام تماس مستقیم با نهادهای ناظر، باید **مودب** باشید و به‌طور **مشخص** توضیح دهید که به باور شما این سیاست‌ها چه آسیب‌هایی—هم به مصرف‌کنندگان و هم به رقابت—وارد خواهند کرد."
   en: "Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition."
   ru: "Регуляторы по всему миру всерьёз обеспокоены монополиями и концентрацией власти в технологическом секторе и хотят напрямую слышать мнение людей, которых это затрагивает и волнует. Обращаясь к регуляторам напрямую, важно быть вежливым и конкретным в описании того вреда, который, по вашему мнению, эти политики могут нанести — как потребителям, так и конкуренции."
   de: "Regulierungsbehörden auf der ganzen Welt sind ernsthaft besorgt über Monopole und die zunehmende Machtkonzentration im Technologiesektor – und sie möchten die Stimmen der Betroffenen hören.\nWenn Sie Kontakt aufnehmen, seien Sie höflich und präzise, und beschreiben Sie genau, welchen Schaden diese Politik sowohl Verbrauchern als auch dem Wettbewerb zufügen könnte."
@@ -42,6 +44,7 @@ intro:
 
 follow_up:
   ar: "تكون الشكاوى ذات تأثير بالغ، خاصةً عندما يُقدّمها مواطن من ذلك البلد أو المنطقة، وعندما تكون لغة البريد الإلكتروني إحدى اللغات الرسمية للهيئة الحاكمة في المنطقة. اطلبوا _إشعارًا كتابياً_ باستلام الشكوى، و يرجى إعادة توجيه أي ردود تتلقونها إلى [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) حتى نتمكن من تسليط الضوء عليها و الإشارة إليها."
+  fa: "شکایات زمانی بیشترین اثرگذاری را دارند که از سوی یکی از شهروندان همان کشور یا منطقه تنظیم شده باشند و متن ایمیل نیز به یکی از زبان‌های رسمی نهاد حاکمیتی آن منطقه نوشته شده باشد. درخواست یک **تأییدیهٔ کتبی** برای دریافت شکایت خود مطرح کنید، و در نظر داشته باشید هر پاسخی را که دریافت می‌کنید به نشانی [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ارسال کنید تا بتوانیم آن‌ها را برجسته کرده و به آن‌ها ارجاع دهیم."
   en: "Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them."
   ru: "Жалобы особенно действенны, когда их пишет гражданин соответствующей страны или региона, и когда письмо составлено на одном из официальных языков органа управления этого региона. Попросите _письменное подтверждение_ получения жалобы и, по возможности, пересылайте любые полученные ответы на [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org), чтобы мы могли их выделить и ссылаться на них."
   de: "Beschwerden sind besonders wirksam, wenn sie von Bürgern des jeweiligen Landes oder der Region eingereicht werden und in einer der Amtssprachen der zuständigen Behörde verfasst sind.\nBitten Sie um eine **schriftliche Empfangsbestätigung** Ihrer Beschwerde und erwägen Sie, jede erhaltene Antwort an [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) weiterzuleiten, damit wir sie veröffentlichen und dokumentieren können."
@@ -624,6 +627,7 @@ countries:
               en: "Contact Senator [Cynthia Lummis](https://www.lummis.senate.gov/contact)"
   - id: european-union
     name:
+      fa: "اتّحادیّهٔ اروپا"
       ar: "الاتحاد الأوروبي"
       en: "European Union"
       ru: "Европейский союз"
@@ -813,6 +817,7 @@ countries:
               zh-TW: "聯絡[斯洛伐克共和國反壟斷局](https://www.antimon.gov.sk/en/)"
   - id: united-kingdom
     name:
+      fa: "بریتانیای کبیر"    
       ar: "المملكة المتحدة"
       en: "United Kingdom"
       ru: "Великобритания"
@@ -867,8 +872,103 @@ countries:
           pt-BR: "Faça um relato a [UK Competition & Markets Authority](https://contact-the-cma.service.gov.uk/wizard/classify)"
           zh-CN: "向[英国竞争与市场管理局](https://contact-the-cma.service.gov.uk/wizard/classify)举报"
           zh-TW: "向[英國競爭與市場管理局](https://contact-the-cma.service.gov.uk/wizard/classify)提出報告"
+  - id: united-states
+    name:
+      fa: "ایالات متّحدهٔ آمریکا"
+      ar: "الولايات المتحدة الأمريكية"
+      en: "United States"
+      ru: "Соединенные Штаты"
+      de: "USA"
+      fr: "États-Unis"
+      es: "Estados Unidos"
+      it: "Stati Uniti"
+      ko: "미국"
+      cs: "Spojené státy americké"
+      sk: "Spojené štáty"
+      el: "Ηνωμένες Πολιτείες"
+      th: "สหรัฐอเมริกา"
+      tr: "Amerika Birleşik Devletleri"
+      uk: "Сполучені Штати Америки"
+      pl: "Stany Zjednoczone"
+      pt-BR: "Estados Unidos da América"
+      zh-CN: "美国"
+      zh-TW: "美國"
+    items:
+      - text:
+          ar: "قدّم تقريراً إلى [قسم مكافحة الاحتكار التابع لوزارة العدل الأمريكية عبر الإنترنت](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          en: "Make a report to the [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          ru: "Отправьте обращение в [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          de: "Melden Sie sich beim [US-Justizministerium – Online-Antitrust-Meldungsformular](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          fr: "Déposer un signalement auprès du [Département de la Justice des États-Unis – Formulaire de signalement antitrust en ligne](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          es: "Presentar una denuncia ante el [Departamento de Justicia de los Estados Unidos – Formulario de denuncia antimonopolio en línea](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          it: "Presenta una segnalazione [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          cs: "Pošlete oznámení [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          sk: "Podajte správu na [americkom ministerstve spravodlivosti Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          el: "Κάνετε μία αναφορά στην [Διαδυκτιακή Αναφορά Μονοπωλίου του Υπουργείου Δικαιοσύνης των ΗΠΑ](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          th: "แจ้งเบาะแสต่อ [กระทรวงยุติธรรมสหรัฐอเมริกา แบบฟอร์มรายงานต่อต้านการผูกขาดออนไลน์](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          id: "Ajukan laporan ke [Laporan Anti-Monopoli Departemen Kehakiman AS secara Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          uk: "Повідомити онлайн до [Антимонопольного відділу Міністерства юстиції США](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          pl: "Zgłoś sprawę przez [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          pt-BR: "Faça um relato para o [US Department of Justice Antitrust Report Online](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)"
+          zh-CN: "向[美国司法部反垄断在线举报](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)举报"
+          zh-TW: "向[美國司法部線上反托拉斯報告](https://www.justice.gov/atr/webform/submit-your-antitrust-report-online)提出報告"
+      - text:
+          ar: "قدّم شكوى إلى [لجنة التجارة الفيدرالية الأمريكية: شكاوى مكافحة الاحتكار](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          en: "File a complaint with the [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          ru: "Подайте жалобу в [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          de: "Reichen Sie eine Beschwerde bei der [Federal Trade Commission – Antitrust-Beschwerden](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake) ein."
+          fr: "Déposer une plainte auprès de la [Commission fédérale du commerce des États-Unis : Plaintes antitrust](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          es: "Presentar una denuncia ante la [Comisión Federal de Comercio de los Estados Unidos: Denuncias antimonopolio](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          it: "Presenta un reclamo [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          cs: "Pošlete stížnost na [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          sk: "Podajte sťažnosť na [Federálnu obchodnú komisiu USA: Antimonopolné sťažnosti](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          el: "Υποβάλετε καταγγελία στην [Ομοσπονδιακή Επιτροπή Εμπορίου των ΗΠΑ: Καταγγελίες Μονοπωλίου](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          th: "ยื่นคำร้องต่อ [คณะกรรมาธิการการค้าแห่งสหพันธรัฐสหรัฐอเมริกา: คำร้องต่อต้านการผูกขาด](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          id: "Ajukan pengaduan ke [Komisi Perdagangan Federal AS: Pengaduan Anti-Monopoli](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          uk: "Подати скаргу до [Федеральної торгової комісії США: Антимонопольні скарги](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          pl: "Złóż skargę do [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          pt-BR: "Faça uma reclamação junto à [US Federal Trade Commission: Antitrust Complaints](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)"
+          zh-CN: "向[美国联邦贸易委员会：反垄断投诉](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)投诉"
+          zh-TW: "與[美國聯邦貿易委員會：反托拉斯投訴](https://www.ftc.gov/advice-guidance/competition-guidance/antitrust-complaint-intake)開立投訴"
+      - text:
+          ar: "~~البريد الإلكتروني (غير فعال): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          en: "~~Email (DEFUNCT): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          ru: "~~Электронная почта (НЕ ДЕЙСТВУЕТ): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          de: "~~E-Mail (deaktiviert): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          fr: "~~Courriel (désactivé) : [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          es: "~~Correo electrónico (desactivado): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          it: "~~E-mail (NON PIÙ VALIDA): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          cs: "~~Email (NEFUNKČNÍ): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          sk: "~~E-mail (NEFUNGUJE): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          el: "~~Email (ΚΛΕΙΣΤΟ): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          th: "~~อีเมล (ไม่ใช้งานแล้ว): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          id: "~~Pos-el (Tidak Aktif): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          tr: "~~E-posta: [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org) [DEVRE DIŞI]~~"
+          uk: "~~Електронна пошта (НЕ ДІЄ): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          pt-BR: "~~Email (EXTINTO): [antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          zh-CN: "~~电子邮件 (失效)：[antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+          zh-TW: "~~電子郵件 (**失效**)：[antitrust@ftc.gov](mailto:antitrust@ftc.gov?cc=usftc@keepandroidopen.org)~~"
+      - text:
+          ar: "~~البريد الإلكتروني (غير فعال): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          en: "~~Email (DEFUNCT): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          ru: "~~Электронная почта (НЕ ДЕЙСТВУЕТ): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          de: "~~E-Mail (deaktiviert): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          fr: "~~Courriel (désactivé) : [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          es: "~~Correo electrónico (desactivado): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          it: "~~E-mail (NON PIÙ VALIDA): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          cs: "~~Email (NEFUNKČNÍ): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          sk: "~~E-mail (NEFUNGUJE): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          el: "~~Email (ΚΛΕΙΣΤΟ): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          th: "~~อีเมล (ไม่ใช้งานแล้ว): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          id: "~~Pos-el (Tidak Aktif): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          tr: "~~E-posta: [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)[DEVRE DIŞI]~~"
+          uk: "~~Електронна пошта (НЕ ДІЄ): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          pt-BR: "~~Email (EXTINTO): [antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          zh-CN: "~~电子邮件 (失效)：[antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
+          zh-TW: "~~電子郵件 (**失效**)：[antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
   - id: brazil
     name:
+      fa: "برزیل"
       ar: "البرازيل"
       en: "Brazil"
       ru: "Бразилия"
@@ -945,6 +1045,7 @@ countries:
 
   - id: singapore
     name:
+      fa: "سنگاپور"
       ar: "سنغافورة"
       en: "Singapore"
       ru: "Сингапур"
@@ -1021,6 +1122,7 @@ countries:
           zh-TW: "_註：新加坡已被指定為率先強制實施開發者註冊的[首階段 4 個國家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_"
   - id: thailand
     name:
+      fa: "تایلند"
       ar: "تايلاند"
       en: "Thailand"
       ru: "Таиланд"
@@ -1134,6 +1236,7 @@ countries:
 
   - id: indonesia
     name:
+      fa: "اندونزی"
       ar: "إندونيسيا"
       en: "Indonesia"
       ru: "Индонезия"
@@ -1210,6 +1313,7 @@ countries:
   - id: "switzerland"
     name:
       ar: "سويسرا"
+      fa: "سوییس"
       en: "Switzerland"
       ru: "Швейцария"
       de: "Switzerland"
@@ -1247,6 +1351,7 @@ countries:
   - id: "australia"
     name:
       ar: "أستراليا"
+      fa: "استرالیا"
       en: "Australia"
       ru: "Австралия"
       de: "Australien"
@@ -1342,6 +1447,7 @@ countries:
 
   - id: "japan"
     name:
+      fa: "ژاپن"
       ar: "اليابان"
       en: "Japan"
       ru: "Япония"
@@ -1400,6 +1506,7 @@ countries:
 
   - id: "south-korea"
     name:
+      fa: "کرهٔ جنوبی"
       ar: "كوريا الجنوبية"
       en: "South Korea"
       ru: "Южная Корея"
@@ -1457,6 +1564,7 @@ countries:
 
   - id: "india"
     name:
+      fa: "هند"
       ar: "الهند"
       en: "India"
       ru: "Индия"
@@ -1515,6 +1623,7 @@ countries:
 
   - id: "canada"
     name:
+      fa: "کانادا"
       ar: "كندا"
       en: "Canada"
       ru: "Канада"
@@ -1592,6 +1701,7 @@ countries:
 
   - id: "taiwan"
     name:
+      fa: "تایوان"
       ar: "تايوان"
       en: "Taiwan"
       ru: "Тайвань"
@@ -1650,6 +1760,7 @@ countries:
 
   - id: "turkey"
     name:
+      fa: "ترکیه"
       ar: "تركيا"
       en: "Turkey"
       ru: "Турция"
@@ -1692,6 +1803,7 @@ countries:
 
   - id: "argentina"
     name:
+      fa: "آرژانتین"
       ar: "الأرجنتين"
       en: "Argentina"
       ru: "Аргентина"
@@ -1750,6 +1862,7 @@ countries:
 
   - id: "mexico"
     name:
+      fa: "مکزیک"
       ar: "المكسيك"
       en: "Mexico"
       ru: "Мексика"
@@ -1808,6 +1921,7 @@ countries:
 
   - id: "philippines"
     name:
+      fa: "فلیپین"
       ar: "الفلبين"
       en: "Philippines"
       ru: "Филиппины"
@@ -1848,8 +1962,86 @@ countries:
           zh-CN: "联系[菲律宾竞争委员会 (PCC)](https://www.phcc.gov.ph/)"
           zh-TW: "聯絡[菲律賓競爭委員會 (PCC)](https://www.phcc.gov.ph/)"
 
+  - id: "poland"
+    name:
+      fa: "لهستان"
+      ar: "بولندا"
+      en: "Poland"
+      ru: "Польша"
+      ko: "폴란드"
+      el: "Πολωνία"
+      th: "โปแลนด์"
+      id: "Polandia"
+      pl: "Polska"
+      zh-TW: "波蘭"
+    items:
+      - text:
+          ar: "البريد الإلكتروني: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
+          en: "Email: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
+          ru: "Электронная почта: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
+          th: "อีเมล: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
+          id: "Pos-el: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
+          pl: "E-mail: [uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
+          zh-TW: "電子郵件：[uokik@uokik.gov.pl](mailto:uokik@uokik.gov.pl?cc=poland@keepandroidopen.org)"
+      - text:
+          ar: "تواصل مع [مكتب حماية المنافسة والمستهلك (UOKiK)](https://uokik.gov.pl/)"
+          en: "Contact the [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+          ru: "Свяжитесь с [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+          el: "Επικοινωνήστε με το [Γραφείο Ανταγωνισμού και Προστασίας του Καταναλωτή (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+          th: "ติดต่อ [สำนักงานปกป้องการแข่งขันและผู้บริโภค (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+          id: "Hubungi [Badan Perlindungan Persaingan dan Konsumen (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+          pl: "Skontaktuj się z [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+          zh-TW: "聯絡[消費者保護暨競爭署 (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+
+  - id: "czech-republic"
+    name:
+      fa: "جمهوری چک"
+      ar: "الجمهورية التشيكية"
+      en: "Czech Republic"
+      ru: "Чешская Республика"
+      it: "Repubblica Ceca"
+      ko: "체코"
+      cs: "Česká republika"
+      sk: "Česká republika"
+      el: "Τσεχία"
+      th: "สาธารณรัฐเช็ก"
+      id: "Republik Ceko"
+      uk: "Чеська Республіка"
+      pl: "Czechy"
+      zh-CN: "捷克共和国"
+      zh-TW: "捷克共和國"
+    items:
+      - text:
+          ar: "البريد الإلكتروني: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          en: "Email: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          ru: "Электронная почта: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          it: "E-mail: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          cs: "E-mail: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          sk: "E-mail: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          th: "อีเมล: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          id: "Pos-el: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          uk: "Електронна пошта: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          pl: "E-mail: [posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          zh-CN: "电子邮件：[posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+          zh-TW: "電子郵件：[posta@uohs.gov.cz](mailto:posta@uohs.gov.cz?cc=czechia@keepandroidopen.org)"
+      - text:
+          ar: "اتصل بـ [مكتب حماية المنافسة (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          en: "Contact the [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          ru: "Свяжитесь с [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          it: "Contatta [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          cs: "Kontaktujte [Úřad pro ochranu hospodářské soutěže (ÚOHS)](https://www.uohs.gov.cz/cs/)"
+          sk: "Kontaktujte [Úrad pre ochranu hospodárskej súťaže (ÚOHS)](https://www.uohs.gov.cz/en/)"
+          el: "Επικοινωνήστε με το [Γραφείο για την Προστασία του Ανταγωνισμού (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          th: "ติดต่อ [สำนักงานคุ้มครองการแข่งขันทางเศรษฐกิจ (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          id: "Hubungi [Badan Pengawas Persaingan Usaha (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          uk: "Зв'яжіться з [Управлінням із захисту конкуренції (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          pl: "Skontaktuj się z [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          zh-CN: "联系[竞争保护办公室 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          zh-TW: "聯絡[經濟競爭保護辦公室 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+
   - id: "ukraine"
     name:
+      fa: "اوکراین"
       ar: "أوكرانيا"
       en: "Ukraine"
       ru: "Украина"
@@ -1912,8 +2104,31 @@ countries:
           zh-CN: "联系[乌克兰反垄断委员会](https://amcu.gov.ua/)"
           zh-TW: "聯絡[烏克蘭反壟斷委員會](https://amcu.gov.ua/)"
 
+  - id: "slovakia"
+    name:
+      fa: "اسلواکی"
+      ar: "سلوفاكيا"
+      en: "Slovakia"
+      ru: "Словакия"
+      sk: "Slovenská republika"
+      zh-TW: "斯洛伐克"
+    locales:
+      - sk
+    items:
+      - text:
+          ar: "البريد الإلكتروني: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
+          en: "E-mail: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
+          ru: "Электронная почта: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
+          sk: "E-mail: [podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
+          zh-TW: "電子郵件：[podatelna@antimon.gov.sk](mailto:podatelna@antimon.gov.sk?cc=slovakia@keepandroidopen.org)"
+      - text:
+          en: "Contact the [Antimonopoly Office of the Slovak Republic](https://www.antimon.gov.sk/en/)"
+          ru: "Свяжитесь с [Antimonopoly Office of the Slovak Republic](https://www.antimon.gov.sk/en/)"
+          sk: "Kontaktujte [Protimonopolný úrad Slovenskej republiky](https://www.antimon.gov.sk/en/)"
+          zh-TW: "聯絡[斯洛伐克共和國反壟斷局](https://www.antimon.gov.sk/en/)"
   - id: "chinese-mainland"
     name:
+      fa: "جمهوری خلق چین"
       ar: "جمهورية الصين"
       en: "Chinese Mainland"
       zh-CN: "中国大陆"
