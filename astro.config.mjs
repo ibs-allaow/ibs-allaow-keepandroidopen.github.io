@@ -16,9 +16,8 @@ export default defineConfig({
     },
   },
   redirects: {
-    // TODO: swap
-    '/letter': '/draft-letter',
-    '/open-letter': '/draft-letter',
+    '/letter': '/open-letter',
+    '/draft-letter': '/open-letter',
   },
   vite: {
     plugins: [yaml()]
