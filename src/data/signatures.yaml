@@ -80,7 +80,7 @@
 - organization: "Ghostery"
   url: "ghostery.com"
   poc: "Adam from Ghostery <adam@ghostery.com>"
-  region: US
+  region: DE
 - organization: "The Guardian Project"
   url: "guardianproject.info"
   poc: "Nathan Freitas <nathan@guardianproject.info>"
