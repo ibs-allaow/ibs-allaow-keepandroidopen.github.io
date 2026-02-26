@@ -2,6 +2,7 @@ export const languages = {
   "en": { label: "English", path: "/" },
   "fr": { label: "Français", path: "/fr/" },
   "de": { label: "Deutsch", path: "/de/" },
+  "da": { label: "Dansk", path: "/da/" },
   "ca": { label: "Català", path: "/ca/" },
   "es": { label: "Español", path: "/es/" },
   "id": { label: "Indonesia", path: "/id/" },
