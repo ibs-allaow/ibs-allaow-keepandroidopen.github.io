@@ -245,73 +245,15 @@
   // ── Countdown logic ───────────────────────────────────────────────────
   var countDownDate = new Date("Sep 1, 2026 00:00:00").getTime();
 
-  var formatter = new Intl.RelativeTimeFormat(locale, { style: "narrow" });
+  var unitFormatters = {
+    day: new Intl.NumberFormat(locale, { style: "unit", unit: "day", unitDisplay: "narrow" }),
+    hour: new Intl.NumberFormat(locale, { style: "unit", unit: "hour", unitDisplay: "narrow" }),
+    minute: new Intl.NumberFormat(locale, { style: "unit", unit: "minute", unitDisplay: "narrow" }),
+    second: new Intl.NumberFormat(locale, { style: "unit", unit: "second", unitDisplay: "narrow" })
+  };
 
-  var pfx = new Array(4);
-  var sfx = new Array(4);
-
-  function getOffset(unit) {
-    switch (unit) {
-      case "day":    return 0;
-      case "hour":   return 1;
-      case "minute": return 2;
-      case "second": return 3;
-    }
-  }
-
-  function extractCommon(p, c, reverse) {
-    var s = 0;
-    var w = 0;
-    var i = reverse ? p.length - 1 : 0;
-    var j = reverse ? c.length - 1 : 0;
-    var pEnd = reverse ? 0 : p.length;
-    var cEnd = reverse ? 0 : c.length;
-    var chr;
-    while (
-      (reverse ? i >= pEnd : i < pEnd) &&
-      (reverse ? j >= cEnd : j < cEnd) &&
-      (chr = p[reverse ? i-- : i++]) === c[reverse ? j-- : j++]
-    ) {
-      w = chr === " " ? w + 1 : 0;
-      s++;
-    }
-    return s - w;
-  }
-
-  function cacheFormattingInfo(value, unit) {
-    var p = formatter.formatToParts(value, unit);
-    if (!p.length) return;
-    var c = formatter.formatToParts(-value, unit);
-
-    var offset = getOffset(unit);
-    if (p[0].type === "literal" && (!c.length || c[0].type !== "literal" || !c[0].value.endsWith(p[0].value))) {
-      pfx[offset] = p[0].value.length;
-    }
-    if (p[p.length - 1].type === "literal") {
-      if (!c.length || c[c.length - 1].type !== "literal") {
-        sfx[offset] = p[p.length - 1].value.length;
-      } else if (!c[c.length - 1].value.startsWith(p[p.length - 1].value)) {
-        sfx[offset] =
-          p[p.length - 1].value.length -
-          extractCommon(p[p.length - 1].value, c[c.length - 1].value, false);
-      }
-    }
-  }
-
-  cacheFormattingInfo(1, "day");
-  cacheFormattingInfo(2, "hour");
-  cacheFormattingInfo(3, "minute");
-  cacheFormattingInfo(4, "second");
-
-  function getLocalizedUnit(value, unit, trimConjunction, trimSuffix) {
-    var offset = getOffset(unit);
-    var string = formatter.format(value, unit);
-    var p = pfx[offset];
-    var s = sfx[offset];
-    return string.slice(
-      trimConjunction && p || (p == 1 && string[0] === "+") ? pfx[offset] : 0,
-      trimSuffix && s ? -sfx[offset] : string.length
-    );
+  function formatUnit(value, unit) {
+    return unitFormatters[unit].format(value);
   }
 
   var remaining = new Array(7);
@@ -330,19 +272,22 @@
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
     var parts = 0;
-    remaining[0] = days > 0 ? getLocalizedUnit(days, "day", parts++, true) : null;
+    remaining[0] = days > 0 ? formatUnit(days, "day") : null;
+    if (remaining[0]) parts++;
     remaining[1] = parts ? separator : null;
     remaining[2] =
       parts || hours > 0
-        ? getLocalizedUnit(hours, "hour", parts++, true)
+        ? formatUnit(hours, "hour")
         : null;
+    if (remaining[2]) parts++;
     remaining[3] = parts ? separator : null;
     remaining[4] =
       parts || minutes > 0
-        ? getLocalizedUnit(minutes, "minute", parts++, true)
+        ? formatUnit(minutes, "minute")
         : null;
+    if (remaining[4]) parts++;
     remaining[5] = parts ? separator : null;
-    remaining[6] = getLocalizedUnit(seconds, "second", parts++, false);
+    remaining[6] = formatUnit(seconds, "second");
 
     countdownSpan.textContent = remaining.join("");
 
