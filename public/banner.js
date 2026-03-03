@@ -26,11 +26,12 @@
   var messages = {
     fa:      "اندروید، یک سکّوی بسته خواهد شد!",
     ar:      "سيصبح نظام أندرويد منصة مغلقة في",
-    en:      "Android will become a locked-down platform",
+    en:      "Android will become a locked-down platform in",
     ca:      "Android es convertir\u00E0 en una plataforma tancada",
-    cs:      "Android will become a locked-down platform in",
+    cs:      "Android se stane uzamčenou platformou za",
     de:      "Android wird eine geschlossene Plattform werden.",
     da:      "Android vil blive en lukket platform om",
+    nl:      "Android zal een gesloten platform worden over",
     el:      "\u03A4\u03BF Android \u03B8\u03B1 \u03B3\u03AF\u03BD\u03B5\u03B9 \u03BC\u03AF\u03B1 \u03BA\u03BB\u03B5\u03B9\u03C3\u03C4\u03AE \u03C0\u03BB\u03B1\u03C4\u03C6\u03CC\u03C1\u03BC\u03B1",
     es:      "Android se convertir\u00E1 en una plataforma cerrada",
     fr:      "Android va devenir une plateforme ferm\u00E9e",
@@ -45,9 +46,10 @@
     tr:      "Android k\u0131s\u0131tl\u0131 bir platform haline gelecek.",
     uk:      "Android \u0441\u0442\u0430\u043D\u0435 \u0437\u0430\u043A\u0440\u0438\u0442\u043E\u044E \u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043E\u044E",
     "zh-CN": "\u5B89\u5353\u5C06\u6210\u4E3A\u4E00\u4E2A\u5C01\u95ED\u5E73\u53F0",
-    "zh-TW": "\u5012\u6578 Android \u5373\u5C07\u6DEA\u70BA\u756B\u5730\u70BA\u7262\u3001\u684E\u688F\u6EFF\u76C8\u7684\u5C01\u9589\u5E73\u81FA",
+    "zh-TW": "Android \u5C07\u6210\u70BA\u4E00\u500B\u5C01\u9589\u5E73\u53F0",
     ja:      "Androidは閉鎖的なプラットフォームになろうとしています",
-    fi:      "Androidista tulee suljettu alusta"
+    fi:      "Androidista tulee suljettu alusta",
+    hu:      "Az Android egy lezárt platform lesz",
   };
 
   // ── Parse query parameters from the script's own src URL ──────────────
@@ -97,7 +99,8 @@
 
   // ── Link ────────────────────────────────────────────────────────────
   var linkParam = params.link;
-  var linkUrl = linkParam === "none" ? null : (linkParam || "https://keepandroidopen.org");
+  var defaultLink = "https://keepandroidopen.org" + (locale === "en" ? "" : "/" + locale + "/");
+  var linkUrl = linkParam === "none" ? null : (linkParam || defaultLink);
 
   // ── Close button ────────────────────────────────────────────────────
   var showClose = params.hidebutton !== "off";

@@ -13,6 +13,7 @@ export const languages = {
   "de": { label: "Deutsch", path: "/de/" },
   "da": { label: "Dansk", path: "/da/" },
   "fi": { label: "Suomi", path: "/fi/" },
+  "nl": { label: "Nederlands", path: "/nl/" },
 
   // Central & Eastern European
   "pl": { label: "Polski", path: "/pl/" },
@@ -21,9 +22,13 @@ export const languages = {
   "el": { label: "Ελληνικά", path: "/el/" },
   "ru": { label: "Русский", path: "/ru/" },
   "uk": { label: "Українська", path: "/uk/" },
+  "hu": { label: "Magyar", path: "/hu/" },
+
+  // Turkic & Central Asian
+  "tr": { label: "Türkçe", path: "/tr/" },
+  "kk": { label: "Қазақша", path: "/kk/" },
 
   // Middle Eastern
-  "tr": { label: "Türkçe", path: "/tr/" },
   "ar": { label: "العربية", path: "/ar/" },
   "fa": { label: "فارسی", path: "/fa/" },
 
